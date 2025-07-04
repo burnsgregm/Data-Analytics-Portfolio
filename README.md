@@ -1,9 +1,3 @@
-Skip to content
-Chat history
-
-You said:
-rewrite this in markdown and remove all the cite bullshit:
-
 # Greg Burns - Data Analytics & AI/ML Portfolio
 
 The discipline, resilience, and mission-first ethos I learned as a U.S. Marine have been the foundation of my entire career. They guided me through more than a decade of leading complex enterprise software projects for global firms like IBM and Deloitte, and they are the core of my current mission: a full pivot into the world of Data Analytics and Machine Learning.
