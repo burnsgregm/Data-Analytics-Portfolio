@@ -1,7 +1,3 @@
-Of course. Here is the README file content in a copy-and-paste-ready Markdown format.
-
-Markdown
-
 # AI & Machine Learning Projects
 
 This folder contains a collection of data science and machine learning projects completed as part of my graduate-level coursework. Each project demonstrates an end-to-end workflow, from data cleaning and exploratory data analysis to model building and strategic recommendations.
