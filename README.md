@@ -1,9 +1,3 @@
-Of course. Now that we have the detailed, lower-level README files for each project folder, we can create a powerful top-level README that serves as a clean, professional "table of contents" for your entire portfolio.
-
-Here is the README.md for your main Data-Analytics-Portfolio repository, in Markdown format.
-
-Markdown
-
 # Greg Burns - Data Analytics & AI/ML Portfolio
 
 [cite_start]The discipline, resilience, and mission-first ethos I learned as a U.S. Marine have been the foundation of my entire career[cite: 173]. [cite_start]They guided me through more than a decade of leading complex enterprise software projects for global firms like IBM and Deloitte, and they are the core of my current mission: a full pivot into the world of Data Analytics and Machine Learning[cite: 174].
