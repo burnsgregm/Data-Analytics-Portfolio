@@ -1,12 +1,7 @@
 services:
   - type: web
     name: video-annotator-demo
-    env: python
-    region: oregon             # or your preferred region
+    env: docker
+    region: oregon         # or your region
     branch: main
-    directory: FreeFuse_Internship_Project/video-annotator-demo
-    buildCommand: |
-      pip install -r requirements.txt
-    startCommand: |
-      python3 -m gunicorn app:app --bind 0.0.0.0:$PORT
-    pythonVersion: 3.13.4
+    dockerfilePath: FreeFuse_Internship_Project/video-annotator-demo/Dockerfile
