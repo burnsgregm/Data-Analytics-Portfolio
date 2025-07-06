@@ -2,7 +2,7 @@ services:
   - type: web
     name: video-annotator-demo
     env: python
-    region: oregon          # or your preferred region
+    region: oregon             # or your preferred region
     branch: main
     directory: FreeFuse_Internship_Project/video-annotator-demo
     buildCommand: |
