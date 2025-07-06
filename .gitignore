@@ -1,0 +1,19 @@
+# Environment files
+*.env
+
+# Bytecode / caches
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+venv/
+
+# Uploads & outputs
+FreeFuse_Internship_Project/video-annotator-demo/uploads/
+FreeFuse_Internship_Project/video-annotator-demo/frames/
+FreeFuse_Internship_Project/video-annotator-demo/annotated_frames/
+FreeFuse_Internship_Project/video-annotator-demo/static/output_*.mp4
+
+# Local test scripts
+FreeFuse_Internship_Project/video-annotator-demo/full_pipeline.py
+FreeFuse_Internship_Project/video-annotator-demo/test_env.py
