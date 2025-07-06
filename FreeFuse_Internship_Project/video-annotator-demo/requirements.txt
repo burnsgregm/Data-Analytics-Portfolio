@@ -3,8 +3,4 @@ opencv-python
 Pillow
 moviepy
 requests
-<<<<<<< HEAD
 python-dotenv
-=======
-python-dotenv
->>>>>>> 070ed4779012fa0e7e4248de75e90d006bbaf803
