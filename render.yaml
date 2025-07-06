@@ -5,8 +5,8 @@ services:
     region: oregon
     branch: main
 
-    # 1) Tell Render where your demo lives:
-    directory: FreeFuse_Internship_Project/video-annotator-demo
+    # Build from this subfolder
+    dockerBuildContext: FreeFuse_Internship_Project/video-annotator-demo
 
-    # 2) And which Dockerfile in that directory to use:
-    dockerfilePath: Dockerfile
+    # Dockerfile path relative to repo root
+    dockerfilePath: FreeFuse_Internship_Project/video-annotator-demo/Dockerfile
